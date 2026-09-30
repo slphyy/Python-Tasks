@@ -17,4 +17,4 @@ def localizar_ou_inserir(lista_ids, novo_id):
         return start_index
 
 lista_ids = [10, 20, 30]
-print(localizar_ou_inserir(lista_ids, 30))  # 2
+print(localizar_ou_inserir(lista_ids, 30))
